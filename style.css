@@ -76,6 +76,7 @@ img {
 
 .image__overlay {
   background-color: var(--color-100-hover);
+  border-radius: 1.5rem;
   width: 100%;
   height: 100%;
 
